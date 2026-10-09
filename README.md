@@ -29,6 +29,5 @@ predictivo desarrollado en Power BI con datos generados en Python.
 
 ## 📸 Vista Previa
 
-![Executive Overview](Finguard%201.jpg)
-
-![Predictive Analytics](Finguard%202.jpg)
+![Vista previa 1](./Finguard%201%20.jpg)
+![Vista previa 2](./Finguard%202.jpg)
